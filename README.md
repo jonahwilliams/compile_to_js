@@ -10,7 +10,7 @@ Appends the text 'hello, world' to the document body.
 | Dart (1.25.0-dev.11.0)    | 35K        |
 | Elm (0.18.0)              | 65K        |
 | Clojurescript (1.9.946)   | 4.6K       |
-| Scala 2.12 (ScalaJS 0.6.2)| 10.1 KB    |
+| Scala 2.12 (ScalaJS 0.6.2)| 9.9 K      |
 
 ## Methodology
 
