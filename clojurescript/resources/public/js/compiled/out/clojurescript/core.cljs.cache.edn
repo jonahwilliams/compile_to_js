@@ -1,0 +1,1 @@
+{:rename-macros {}, :renames {}, :externs {window {body {js/appendChild {}, appendChild {}}}, Text {}, Object {appendChild {}}, document {body {appendChild {}}}}, :use-macros {}, :excludes #{}, :name clojurescript.core, :imports nil, :requires nil, :cljs.spec/speced-vars [], :uses nil, :cljs.spec/registry-ref [], :require-macros nil, :doc nil}
