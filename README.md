@@ -11,6 +11,7 @@ Appends the text 'hello, world' to the document body.
 | Elm (0.18.0)              | 65K        |
 | Clojurescript (1.9.946)   | 4.6K       |
 | Scala 2.12 (ScalaJS 0.6.2)| 9.9 K      |
+| Kotlin (1.1.60)           | 1.0 MB     |
 
 ## Methodology
 
@@ -25,3 +26,6 @@ Advanced optimizations build using `lein`
 
 ### Scala.js
 Built with `fullOptJS` sbt command.
+
+### Kotlin
+Build using gradle with `kotlin2js` and `kotlin-dce-js` plugins, then passed to UglifyJS2.
