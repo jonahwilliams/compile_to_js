@@ -15,7 +15,7 @@ Appends the text 'hello, world' to the document body.
 ## Methodology
 
 ### Dart
-Used dart2js with --trust-type-anotations and -trust-primitives and minify: true.
+Used dart2js with the option `minify:true` and the command line flags `--trust-type-anotations` and `-trust-primitives`.
 
 ### Elm
 UglifyJS2 used with flags --compress and --mangle, since I couldn't find a minified/optimizied build in elm-make.
