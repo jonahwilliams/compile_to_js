@@ -11,6 +11,7 @@ Appends the text 'hello, world' to the document body.
 | Elm                      | 0.18.0              | 65            |
 | Clojurescript            | 1.9.946             | 4.6           |
 | Scala                    | 2.12, ScalaJS 0.6.2 | 9.9           |
+| Java (GWT)               | 1.8.0, GWT 2.8.2    | 7.6           |
 | Kotlin                   | 1.1.60              | 1,000         |
 
 ## Methodology
